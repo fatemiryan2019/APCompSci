@@ -1,1 +1,54 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54066:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/macuser/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+Input possible palindrome to find out if it is one:
+Palindrome
+Palindrome is not a palindrome
 
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Civic
+Civic is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Radar
+Radar is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Level
+Level is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Eva, can I stab bats in a cave?
+Eva, can I stab bats in a cave? is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+A man, a plan, a canal, Panama
+A man, a plan, a canal, Panama is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Mr. Owl ate my metal worm
+Mr. Owl ate my metal worm is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Never odd or even
+Never odd or even is a palindrome
+
+Process finished with exit code 0
+
+Input possible palindrome to find out if it is one:
+Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod.
+Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod. is a palindrome
+
+Process finished with exit code 0
