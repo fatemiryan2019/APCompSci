@@ -1,4 +1,5 @@
 /Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54066:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/macuser/IdeaProjects/Palindrome Tester/out/production/Palindrome Tester" Main
+
 Input possible palindrome to find out if it is one:
 Palindrome
 Palindrome is not a palindrome
