@@ -1,1 +1,35 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63651:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/macuser/IdeaProjects/Assignment 13 Election'd/out/production/Assignment 13 Election'd" Main
 
+Presidential Election: 
+Mordy Golding: 70 votes.
+Shira Gotshalk: 61 votes.
+Stephanie Evans: 54 votes.
+Ray Villalobos: 57 votes.
+Mordy Golding is your new President
+
+Vice President Election: 
+Dona Sarkar: 66 votes.
+Tyler Ahn: 64 votes.
+Joe Camp: 57 votes.
+Brandon LeBlanc received 55 votes.
+Dona Sarkar is your new Vice President
+
+Secretary Election: 
+Jason Howard: 66 votes.
+Nikki Rubino: 64 votes.
+Peggy Fisher: 53 votes.
+Neil Edde: 59 votes.
+Jason Howard is your new Secretary
+
+Treasurer Election: 
+David Gassner: 60 votes.
+Sharon Bennett: 50 votes.
+Walt Ritscher: 67 votes.
+Heather Hurley: 65 votes.
+Walt Ritscher is your new Treasurer
+
+
+Votes added up to 242 votes.
+
+
+Process finished with exit code 0
