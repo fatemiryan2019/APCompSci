@@ -13,7 +13,7 @@ public class Escort extends Starship implements Defense{
         beam = 2500 + (rand.nextInt(500)+1);
         torp = 10 + (rand.nextInt(10)+1);
 
-        System.out.printf("%s:      Hull: %d    Shields: %d    Beam Weapons: %d    Torpedoes: %d", newName,hull,shield,beam,torp);
+        System.out.printf("%s:\tHull: %d\tShields: %d\tBeam Weapons: %d\tTorpedoes: %d", newName,hull,shield,beam,torp);
         System.out.println();
 
     }
