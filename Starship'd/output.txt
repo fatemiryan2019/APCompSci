@@ -1,0 +1,24 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50008:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/macuser/IdeaProjects/Starship'd/out/production/Starship'd Main
+Available fleet:
+Int.:	Hull: 2441	Shields: 2272	Beam Weapons: 3517	Torpedoes: 11
+Bri.:	Hull: 2470	Shields: 2122	Beam Weapons: 3960	Torpedoes: 14
+Sta.:	Hull: 2330	Shields: 2491	Beam Weapons: 3834	Torpedoes: 16
+Yam.:	Hull: 2320	Shields: 2275	Beam Weapons: 3838	Torpedoes: 24
+Iow.:	Hull: 2281	Shields: 2097	Beam Weapons: 3841	Torpedoes: 17
+Gal.:	Hull: 4799	Shields: 1755	Beam Weapons: 4729	Torpedoes: 42
+Amb.:	Hull: 3173	Shields: 1633	Beam Weapons: 4570	Torpedoes: 41
+Nim.:	Hull: 4175	Shields: 1550	Beam Weapons: 4321	Torpedoes: 41
+Equ.:	Hull: 3673	Shields: 1796	Beam Weapons: 4995	Torpedoes: 44
+Rel.:	Hull: 3287	Shields: 1738	Beam Weapons: 4139	Torpedoes: 44
+Rel.:	Hull: 1206	Shields: 2644	Beam Weapons: 2864	Torpedoes: 11
+Ent.:	Hull: 1055	Shields: 3269	Beam Weapons: 2997	Torpedoes: 16
+Yor.:	Hull: 1156	Shields: 3079	Beam Weapons: 2689	Torpedoes: 19
+Sar.:	Hull: 1053	Shields: 2741	Beam Weapons: 2530	Torpedoes: 19
+Voy.:	Hull: 1098	Shields: 3475	Beam Weapons: 2803	Torpedoes: 11
+Dis.:	Hull: 1766	Shields: 2009	Beam Weapons: 2526	Torpedoes: 22
+Consti.:	Hull: 1624	Shields: 2380	Beam Weapons: 3377	Torpedoes: 28
+Conste.:	Hull: 1539	Shields: 2333	Beam Weapons: 3311	Torpedoes: 25
+Gri.:	Hull: 1587	Shields: 2344	Beam Weapons: 2650	Torpedoes: 23
+Def.:	Hull: 1813	Shields: 2153	Beam Weapons: 2620	Torpedoes: 25
+
+Process finished with exit code 0
