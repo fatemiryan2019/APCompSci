@@ -12,7 +12,7 @@ public class Cruiser extends Starship implements Offense{
         beam = 3000 + (rand.nextInt(1000)+1);
         torp = 10 + (rand.nextInt(15)+1);
 
-        System.out.printf("%s:      Hull: %d    Shields: %d    Beam Weapons: %d    Torpedoes: %d", newName,hull,shield,beam,torp);
+        System.out.printf("%s:\tHull: %d\tShields: %d\tBeam Weapons: %d\tTorpedoes: %d", newName,hull,shield,beam,torp);
         System.out.println();
 
     }
